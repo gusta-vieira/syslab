@@ -1,1 +1,1 @@
-# A project of a system for clinical labs.
+# Project of a system for clinical labs.
